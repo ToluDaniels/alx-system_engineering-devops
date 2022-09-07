@@ -1,5 +1,5 @@
 #!/bin/bash
-paste - - | cut -d$'\t' -f1
+paste - - | cut -f1
 ~
 ~
 ~
